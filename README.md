@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sophia Wilson, a Computer Science student with a focus on software engineering and full stack development. I enjoy building applications that combine clean design with practical functionality and real-world problem solving.
+I'm Sophia Wilson, a Computer Science student with a focus on software engineering. I enjoy building applications that combine clean design with practical functionality and real-world problem solving.
 
 ## A little about me
 - Bachelor of Science in Computer Science with a Software Engineering focus
@@ -8,11 +8,6 @@ I'm Sophia Wilson, a Computer Science student with a focus on software engineeri
 - Interested in UI and UX design, databases, and secure application development
 - Enjoy turning complex requirements into organized, user-friendly solutions
 - Currently building and refining projects for my professional portfolio
-
-## What I’m working on
-- Full stack web applications with Angular, Express, MongoDB, and Node.js
-- Improving application security with authentication and protected APIs
-- Expanding my portfolio with polished, real-world projects
 
 ## Technologies and tools
 - JavaScript, TypeScript, Python, Java
